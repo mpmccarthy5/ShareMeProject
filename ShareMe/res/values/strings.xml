@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShareMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    <string name="selection_title">Choose info to Share</string>
+    <string name="selection_phone">Phone:</string>
+    <string name="selection_email">Email:</string>
+    <string name="selection_facebook">Facebook:</string>
+    <string name="selection_twitter">Twitter:</string>
+    <string name="selection_snapchat">Snapchat:</string>
+    
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_facebook">Account</string>
+    <string name="hint_twitter">Username</string>
+    <string name="hint_snapchat">Username</string>
+   
+    
+    <string name="btn_done">Done</string>
+    <string name="btn_share">Share My Info</string>
+    <string name="btn_options">Change Options</string>
+    
+
+</resources>
